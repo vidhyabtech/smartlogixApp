@@ -1,0 +1,14 @@
+python-dotenv
+folium
+joblib
+altair
+numpy
+pandas
+plotly
+streamlit
+streamlit-folium
+SQLAlchemy
+psycopg2-binary
+pydeck
+ultralytics
+Pillow
